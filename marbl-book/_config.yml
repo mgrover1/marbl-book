@@ -1,0 +1,5 @@
+# in _config.yml
+title: "CESM2 MARBL"
+logo: 'images/marble-photo.jpeg'
+execute:
+  execute_notebooks: "off"
